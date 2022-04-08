@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/studiobox/static/css/main.7e6d4c40.css",
+    "main.js": "/studiobox/static/js/main.9f17c8ef.js",
+    "static/js/787.cdc799eb.chunk.js": "/studiobox/static/js/787.cdc799eb.chunk.js",
+    "static/media/parallax-bg.gif": "/studiobox/static/media/parallax-bg.a753668321d10848110d.gif",
+    "index.html": "/studiobox/index.html",
+    "main.7e6d4c40.css.map": "/studiobox/static/css/main.7e6d4c40.css.map",
+    "main.9f17c8ef.js.map": "/studiobox/static/js/main.9f17c8ef.js.map",
+    "787.cdc799eb.chunk.js.map": "/studiobox/static/js/787.cdc799eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e6d4c40.css",
+    "static/js/main.9f17c8ef.js"
+  ]
+}
